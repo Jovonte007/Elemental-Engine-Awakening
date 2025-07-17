@@ -1,0 +1,8 @@
+Elemental-Awakening-Engine/
+├── README.md
+├── schematic-diagram.png (optional visual)
+├── elemental-blueprint.pdf
+├── LICENSE (optional)
+└── /docs
+    └── extended-notes.md
+
